@@ -3,6 +3,10 @@
 
 👋 Hey, I’m Jin Peng, a software engineer based in Los Angeles, CA. In short, I aim to solve problems.
 
+![Jin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jinp1031&show_icons=true&theme=radical)
+<!-- credits for the gif https://gph.is/g/ZWg5jr7 -->
+
+
 ## Contact Info
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinpeng307) 
 
