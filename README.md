@@ -25,7 +25,7 @@
 - Testing/Deployment: Jest | Supertest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX
 - Developer Tools: Vim | Git | Npm | Webpack | Snowpack | Babel | Nodemon | Postman
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=javacript,html,css,react,nodejs,git,express,mysql,mongodb,postgres,aws)](https://skillicons.dev)
 ---
