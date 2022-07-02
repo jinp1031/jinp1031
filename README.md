@@ -16,7 +16,7 @@
 - 💬 Ask me about: Javascript, React, Backend, Frontend
 - 📫 How to reach me: jinp1031@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Lego Collector
+- ⚡ Fun fact: Lego Collector/ 🌈 Queer
 
 ---
 ## TECHNICAL SKILLS
